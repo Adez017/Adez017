@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Jarvis - a voice assistant**
 
-- 🌱 I’m currently learning **Excel , DSA**
+- 🌱 I’m currently learning **Big data , DSA**
 
 - 💬 Ask me about **python , data**
 
