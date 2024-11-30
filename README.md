@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adez017/](https://github.com/Adez017/)
 
-- 📫 reach me out at : ** rathoreaditya@singh40@gmail.com **
+- 📫 reach me out at :  **rathoreaditya@singh40@gmail.com**
 
 - ⚡ Fun fact **A data engineer’s job is 80% preparing and cleaning data, and only 20% wondering why it’s still messy after all that work! 🤔**
 
