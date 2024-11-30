@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [DSA CHALLENGE](https://github.com/Adez017/30DAYSCHALLENGE)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adez017/](https://github.com/Adez017/)
+- 👨‍💻 All of my projects are available at [Adez017](https://github.com/Adez017/)
 
 - 📫 reach me out at :  **rathoreadityasingh40@gmail.com**
 
