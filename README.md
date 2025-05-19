@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adez017&label=Profile%20views&color=0e75b6&style=flat" alt="adez017" /> </p>
 
-- 🔭 I’m currently working on [DSA CHALLENGE](https://github.com/Adez017/30DAYSCHALLENGE)
 
-- 👯 I’m looking to collaborate on [DSA CHALLENGE](https://github.com/Adez017/30DAYSCHALLENGE)
-
-- 👨‍💻 All of my projects are available at [Adez017](https://github.com/Adez017/)
-
-- 📫 reach me out at :  **rathoreadityasingh40@gmail.com**
-
-- ⚡ Fun fact **A data engineer’s job is 80% preparing and cleaning data, and only 20% wondering why it’s still messy after all that work! 🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
