@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adez017&label=Profile%20views&color=0e75b6&style=flat" alt="adez017" /> </p>
 
+<a href="#"><img src="contributions.svg"></a>
+
 
 
 <h3 align="left">Connect with me:</h3>
