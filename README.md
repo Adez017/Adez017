@@ -6,11 +6,10 @@
   <a href="https://github.com/Adez017">GitHub</a>
 </p>
 
----
 
 <div align="left">
 
-**👨🏻‍💻 About Me** <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="300px" max-width="300px" width="350px" align="right">
+**👨🏻‍💻 About Me** <img src="https://github.com/Adez017/Adez017/blob/febbae62e96a91fc7e1bbb9b5d680c18e096543f/Readme.gif" width="300px" max-width="300px" align="right" style="vertical-align: middle;">
 
 ✨ Data Engineer | OSS @ RecodeHive @Apache DataFusion<br>
 🎓 B.Tech CSE - 7th Semester<br>
@@ -21,7 +20,6 @@
 
 </div>
 
----
 
 <details>
 <summary><b>🛠 Tech Stack</b></summary> 
@@ -60,7 +58,6 @@
 </br>
 </details>
 
----
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://badgr.com/public/assertions/N-4lqR7TTsqN26EYy7ClyA?identity__email=adityasingh.vdrathore%40gmail.com">
@@ -75,7 +72,7 @@
 <img src="https://github.com/Adez017/Adez017/blob/da958e0d98e682807ad9f03d568317358badae4a/microsoft-certified-fundamentals-badge.png" width="105px" height="105px" />
 
 </div>
----
+
 
 
 <details>
@@ -176,7 +173,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 
 </details>
 
----
+
 
 <div align="center">
 
@@ -192,7 +189,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 
 </div>
 
----
+
 
 <div align="center">
 
