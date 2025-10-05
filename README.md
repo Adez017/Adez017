@@ -23,7 +23,8 @@
 
 ---
 
-**🛠 Tech Stack**
+<details><summary>**🛠 Tech Stack**</summary> 
+<br>
 
 **Languages:** 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
@@ -55,6 +56,8 @@
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">
+</br>
+</details>
 
 ---
 ## Certification Badges 🪶
