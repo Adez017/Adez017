@@ -12,7 +12,7 @@
 
 **👨🏻‍💻 About Me** <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="300px" max-width="300px" width="350px" align="right">
 
-✨ Data Engineer | Open Source Contributor @ RecodeHive @Apache DataFusion<br>
+✨ Data Engineer | OSS @ RecodeHive @Apache DataFusion<br>
 🎓 B.Tech CSE - 7th Semester<br>
 💼 Building scalable data pipelines and distributed systems<br>
 📫 How to reach me: [Email](mailto:rathoreadityasingh40@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-singh-rathore0017)<br>
