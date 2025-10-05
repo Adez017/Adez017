@@ -23,7 +23,8 @@
 
 ---
 
-<details><summary>**🛠 Tech Stack**</summary> 
+<details>
+<summary><b>🛠 Tech Stack</b></summary> 
 <br>
 
 **Languages:** 
