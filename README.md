@@ -114,6 +114,7 @@
 <details>
 <summary><b>📈 Coding Activity</b></summary>
 <br>
+  
 **I'm an Early 🐤** 
 
 ```text
