@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Adez017">Aditya Singh</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://adityasinghrathore.netlify.app/">Aditya Singh</a></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-singh-rathore0017">LinkedIn</a> •
   <a href="mailto:rathoreadityasingh40@gmail.com">Email</a> •
-  <a href="https://github.com/Adez017">GitHub</a>
+  <a href="https://github.com/Adez017">GitHub</a> •
+  <a href="https://adityasinghrathore.netlify.app/">Portfolio</a>
 </p>
 
 
