@@ -12,7 +12,6 @@
 **👨🏻‍💻 About Me** <img src="https://github.com/Adez017/Adez017/blob/febbae62e96a91fc7e1bbb9b5d680c18e096543f/Readme.gif" width="300px" max-width="300px" align="right" style="vertical-align: middle;">
 
 ✨ Data Engineer | OSS @ RecodeHive @Apache DataFusion<br>
-🎓 B.Tech CSE - 7th Semester<br>
 💼 Building scalable data pipelines and distributed systems<br>
 📫 How to reach me: [Email](mailto:rathoreadityasingh40@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-singh-rathore0017)<br>
 🌱 Currently learning Rust, Apache Spark & Apache Airflow<br>
