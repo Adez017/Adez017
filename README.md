@@ -10,7 +10,7 @@
 
 <div align="left">
 
-**👨🏻‍💻 About Me** <img src="https://github.com/Adez017/Adez017/blob/febbae62e96a91fc7e1bbb9b5d680c18e096543f/Readme.gif" width="300px" max-width="300px" align="right" style="vertical-align: middle;">
+**👨🏻‍💻 About Me** <img src="https://github.com/Adez017/Adez017/blob/febbae62e96a91fc7e1bbb9b5d680c18e096543f/Readme.gif" width="300px" max-width="300px" align="right" style="vertical-align: top;">
 
 ✨ Data Engineer | OSS @ RecodeHive @Apache DataFusion<br>
 💼 Building scalable data pipelines and distributed systems<br>
