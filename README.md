@@ -14,7 +14,7 @@
 
 ✨ Data Engineer | OSS @ RecodeHive @Apache DataFusion<br>
 💼 Building scalable data pipelines and distributed systems<br>
-📫 How to reach me: [Email](mailto:rathoreadityasingh40@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-singh-rathore0017)<br>
+📫 Connect with me: [Email](mailto:rathoreadityasingh40@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aditya-singh-rathore0017)<br>
 🌱 Currently learning Azure, Apache Spark & Apache Airflow<br>
 💬 Ask me about Data Engineering, Big Data, and Cloud Platforms<br>
 
