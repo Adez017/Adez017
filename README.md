@@ -61,7 +61,7 @@
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://badgr.com/public/assertions/N-4lqR7TTsqN26EYy7ClyA?identity__email=adityasingh.vdrathore%40gmail.com">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://github.com/Adez017/Adez017/blob/main/github.png" width="100px" height="100px" />
 <a href="https://www.credly.com/badges/62ce501e-ddf5-4e90-b0e9-f848b75a1dcd/public_url">
 <img src="https://github.com/Adez017/Adez017/blob/c690f5b5ff190590c4f4688d551290298b26f758/microsoft-certified-azure-data-fundamentals.png" width="115px" height="108px" />
 <a href="https://www.credly.com/badges/075d2441-4c4a-4309-9200-d35cccbcb6cc/public_url">
